@@ -1,0 +1,16 @@
+azure:
+  openai:
+    endpoint: ${AZURE_OPENAI_ENDPOINT}
+    api-key: ${AZURE_OPENAI_API_KEY}
+    deployment-name: ${AZURE_OPENAI_DEPLOYMENT_NAME:gpt-4o}
+    max-tokens: 1000
+
+rate-limit:
+  requests-per-minute: 10
+
+spring:
+  application:
+    name: azure-openai-chat-service
+
+server:
+  port: 8080
