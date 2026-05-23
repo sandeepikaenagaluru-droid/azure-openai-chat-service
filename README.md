@@ -1,3 +1,13 @@
+# Azure OpenAI Chat Service
+
+![Java](https://img.shields.io/badge/Java-17-orange?logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2-brightgreen?logo=springboot)
+![Azure OpenAI](https://img.shields.io/badge/Azure-OpenAI-0078D4?logo=microsoftazure)
+![Bucket4j](https://img.shields.io/badge/Rate%20Limiting-Bucket4j-purple)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Stars](https://img.shields.io/github/stars/sandeepikaenagaluru-droid/azure-openai-chat-service?style=social)
+![Forks](https://img.shields.io/github/forks/sandeepikaenagaluru-droid/azure-openai-chat-service?style=social)
+
 Azure OpenAI Chat Service
 A production-ready Java Spring Boot REST API that integrates with Azure OpenAI to provide multi-turn conversational AI with built-in rate limiting.
 Features
